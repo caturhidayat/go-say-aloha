@@ -1,5 +1,5 @@
 package gosayaloha
 
-func say_aloha() string {
+func SayAloha() string {
 	return "Alohaa.."
 }
